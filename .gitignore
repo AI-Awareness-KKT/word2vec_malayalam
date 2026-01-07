@@ -5,11 +5,6 @@
 __pycache__/
 *.pyc
 
-# Large ML models
-models/*.kv
-models/*.vec
-models/*.model
-models/*.npy
 
 # OS files
 .DS_Store
